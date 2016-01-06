@@ -1,1 +1,3 @@
 # RandomGroupGenerator
+#
+# Jetzt geht's los...
